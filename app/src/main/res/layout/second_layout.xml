@@ -63,16 +63,17 @@
         android:inputType="textCapWords"
         android:hint="@string/input"
         android:autofillHints="" />
-    <EditText
-        android:id="@+id/textedit9"
+    <TextView
+        android:id="@+id/text3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="date"
-        android:hint="@string/input"
-        android:autofillHints="" />
+        android:ems="20"
+        android:text="@string/emstxt"/>
     <CalendarView
+        android:id="@+id/calendar1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
 </LinearLayout>
 
 
