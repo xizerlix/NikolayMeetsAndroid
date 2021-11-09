@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Nikolay meets Android</string>
+    <string name="TextView">TextView</string>
+    <string name="ButtonText">OK</string>
+    <string name="hintText">input smth.</string>
+    <string name="input">input your text here</string>
 </resources>
